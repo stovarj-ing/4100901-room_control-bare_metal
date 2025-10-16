@@ -19,7 +19,7 @@ typedef struct {
 #define USART2 ((USART_Typedef_t *)0x40004400U)
 
 // Constantes
-#define BAUD_RATE     115200U
+#define BAUD_RATE     250000U
 #define HSI_FREQ      4000000U
 
 // Prototipos de funciones
